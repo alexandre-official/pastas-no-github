@@ -92,7 +92,7 @@ function addExercicio(t) {
     addCheck(t)
     addContador()
 }
-addExercicio('Supinoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
+addExercicio('Supinoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
 addExercicio('Supino')
 addExercicio('Supino')
 addExercicio('Supino')
