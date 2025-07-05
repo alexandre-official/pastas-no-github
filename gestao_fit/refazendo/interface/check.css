@@ -1,0 +1,27 @@
+.check-block {
+    max-width: fit-content;
+    display: flex;
+    gap: 7px;
+    align-items: center;
+    margin: 5px auto;
+    position: relative;
+    padding: 1.5px;
+}
+.check {
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    border: 3px solid black;
+    flex: 0 0 auto; /* evita que ele seja comprimido */
+}
+.check-block p {
+    display: block;
+    max-width: 70%;
+    word-break: break-word;
+}
+.check-marcado {
+    background-color: #0080005d;
+}
+.p-marcado {
+    background-color: #0080005d;
+}
