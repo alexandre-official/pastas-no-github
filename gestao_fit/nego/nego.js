@@ -1,8 +1,0 @@
-addH1('Perna')
-addExercicio('Banco extensor - 4 pesos')
-addExercicio('Hack - 5° peso')
-addExercicio('Lag press - 85 Kg')
-addExercicio('Banco flexor')
-addExercicio('Banco abdutor 25 Kg')
-addExercicio('Flexora vertical 4 pesos')
-addExercicio('Panturrilha')

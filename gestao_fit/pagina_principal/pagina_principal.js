@@ -1,7 +1,0 @@
-addH1('Braço')
-addExercicio('Supino inclinado - 7 Kg de cada lado')
-addExercicio('Supino vertical - 30 Kg')
-addExercicio('Peck deck - 4 pesos')
-addExercicio('Elevação frontal - peso vermelho')
-addExercicio('Tríceps polia barra reta - 4 pesos')
-addExercicio('Francês')
