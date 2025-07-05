@@ -21,7 +21,7 @@
 .seta {
     width: 30px;
     height: 30px;
-    background-color: #0080005d;
+    background-color: var(--azul);
 }
 .seta-cima {
     clip-path: polygon(0 100%, 50% 0, 100% 100%);

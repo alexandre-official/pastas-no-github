@@ -21,8 +21,8 @@
     font-size: 20px;
 }
 .check-marcado {
-    background-color: #0080005d;
+    background-color: var(--azul);
 }
 .p-marcado {
-    background-color: #0080005d;
+    background-color: var(--azul);
 }

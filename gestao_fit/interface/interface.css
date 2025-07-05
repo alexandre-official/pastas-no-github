@@ -4,6 +4,12 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+:root {
+    --verde: #0080005d;
+    --azul: #0000ff5d;
+    --vermelho: #ff00005d;
+    --amarelo: yellow;
+}
 body {
     padding: 7px;
 }
