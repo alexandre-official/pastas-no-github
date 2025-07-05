@@ -91,3 +91,4 @@ function addExercicio(t) {
     addCheck(t)
     addContador()
 }
+addExercicio('a')
