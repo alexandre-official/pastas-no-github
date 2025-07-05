@@ -16,11 +16,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 5px;
+    gap: 10px;
 }
 .seta {
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     background-color: #0080005d;
 }
 .seta-cima {
