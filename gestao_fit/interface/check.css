@@ -8,8 +8,8 @@
     padding: 1.5px;
 }
 .check {
-    width: 13px;
-    height: 13px;
+    width: 17px;
+    height: 17px;
     border-radius: 50%;
     border: 3px solid black;
     flex: 0 0 auto; /* evita que ele seja comprimido */

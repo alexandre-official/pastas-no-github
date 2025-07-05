@@ -3,7 +3,6 @@ function addH1(t) {
     h1.innerHTML = t
     window.document.body.appendChild(h1)
 }
-addH1('Treino braço')
 let id_check
 function addCheck(t) {
     function criarCheck() {
@@ -92,14 +91,3 @@ function addExercicio(t) {
     addCheck(t)
     addContador()
 }
-addExercicio('Supinoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
-addExercicio('Supino')
-addExercicio('Supino')
-addExercicio('Supino')
-addExercicio('Supino')
-addExercicio('Supino')
-addExercicio('Supino')
-addExercicio('Supino')
-/*
-roupa que se regenera de desgaster, desbotamento e perda de tecido. Tecido vivo que pode mudar de cor de acordo com variacoes quimicas colocadas nele, materiais diferentes ou a exposicao solar, por exemplo. Ele cresce como se fosse um fungo ou algum outro organismo vivo, mas ele não desobedece os artesaos naturais, suas formas, cores e tamanho permanecer ate que alguem as mude. Ela podera ser estilizada no jogo
-*/
