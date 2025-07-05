@@ -8,8 +8,8 @@
     padding: 1.5px;
 }
 .check {
-    width: 17px;
-    height: 17px;
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
     border: 3px solid black;
     flex: 0 0 auto; /* evita que ele seja comprimido */
@@ -18,6 +18,7 @@
     display: block;
     max-width: 70%;
     word-break: break-word;
+    font-size: 20px;
 }
 .check-marcado {
     background-color: #0080005d;
