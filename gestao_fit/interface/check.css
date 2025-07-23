@@ -11,7 +11,7 @@
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    border: 3px solid black;
+    border: 3px solid var(--verde);
     flex: 0 0 auto; /* evita que ele seja comprimido */
 }
 .check-block p {
